@@ -9,6 +9,4 @@ Welcome to my GitHub! I'm passionate about solving real-world problems using mac
 - **AI/ML:** TensorFlow, Keras, OpenCV, Scikit-learn
 - **Tools:** Git, Linux, ModelSim, Tkinter, Jupyter, MySQL
 
-## 📫 Let's Connect
-- 📧 [h.r.ghorbani82@gmail.com]
 
