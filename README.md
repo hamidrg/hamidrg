@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Hamid
 
-<!--
-**hamidrg/hamidrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student | 🤖 AI & Deep Learning Enthusiast | 💡 Project Builder
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about solving real-world problems using machine learning, computer vision, and embedded systems. Here you'll find a mix of software and hardware projects I've worked on during my academic journey and personal learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- **Languages:** Python, C++, C, SQL, HTML/CSS
+- **AI/ML:** TensorFlow, Keras, OpenCV, Scikit-learn
+- **Tools:** Git, Linux, ModelSim, Tkinter, Jupyter, MySQL
+
+## 📫 Let's Connect
+- 📧 [h.r.ghorbani82@gmail.com]
+
